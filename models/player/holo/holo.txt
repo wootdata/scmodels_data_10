@@ -1,0 +1,1 @@
+I took this right out of the HL wad and put sc4 anims... the reason I didn't make it additive was that it was messing up and not working correctly - it would disappear "behind" stuff that it was actually in front of. 
