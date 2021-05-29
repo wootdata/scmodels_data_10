@@ -1,1 +1,429 @@
-{"seq_groups": 1, "hash": "e9103e7acf6468e2cab9f5ed9ee5e8c9", "tri_count": "1006"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "diablo_template_model1",
+					"polys": 1006,
+					"verts": 496
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 16,
+			"end": -90.000000,
+			"index": 0,
+			"rest": 0,
+			"start": 90.000000,
+			"type": 16
+		}, 
+		{
+			"bone": 16,
+			"end": 50.000000,
+			"index": 1,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 2,
+			"frame": 0,
+			"options": "",
+			"sequence": 11,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 0,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 0,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "e9103e7acf6468e2cab9f5ed9ee5e8c9",
+	"name": "panther.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 26,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 23,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 41,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 51,
+			"name": "idle4"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 13,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 13,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "angry"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 16,
+			"name": "flinch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 51,
+			"name": "dieback"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 16,
+			"name": "180_left"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 16,
+			"name": "180_right"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 28,
+			"name": "jump"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 28,
+			"name": "jump_variation1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 28,
+			"name": "jump_variation2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "yaw_adjustment"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "yaw_adjustment"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Leg2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Toe1",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Toe2",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Leg2",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Toe1",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Toe2",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger2",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger2",
+			"parent": 31
+		}, 
+		{
+			"name": "Dummy04",
+			"parent": 18
+		}, 
+		{
+			"name": "Bone08",
+			"parent": 36
+		}, 
+		{
+			"name": "Bone09",
+			"parent": 37
+		}, 
+		{
+			"name": "Bone10",
+			"parent": 38
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 39
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 41
+		}, 
+		{
+			"name": "Bone04",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 43
+		}, 
+		{
+			"name": "Bone06",
+			"parent": 44
+		}, 
+		{
+			"name": "Bip01 Tail",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Tail1",
+			"parent": 46
+		}, 
+		{
+			"name": "Bip01 Tail2",
+			"parent": 47
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 37,
+			"name": "Butt1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "Tail.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 104,
+			"name": "Leg_Back_In1.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 86,
+			"name": "Leg_Back1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 30,
+			"name": "Claw_back1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 15,
+			"name": "Foot_Back_Bttm1.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 121,
+			"name": "Side1.bmp",
+			"width": 136
+		}, 
+		{
+			"flags": 0,
+			"height": 89,
+			"name": "Face2.bmp",
+			"width": 92
+		}, 
+		{
+			"flags": 0,
+			"height": 71,
+			"name": "Mouth1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 41,
+			"name": "Fnt_Paw_Out1.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "Claw_Frnt1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 15,
+			"name": "Foot_Fnt_Bttm1.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 29,
+			"name": "ArmPit1.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "Tounge1.bmp",
+			"width": 20
+		}
+	],
+	"version": 10
+}

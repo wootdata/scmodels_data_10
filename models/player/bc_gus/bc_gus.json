@@ -1,1 +1,177 @@
-{"seq_groups": 1, "hash": "59bc882e3cee9c1569f0a07f1674a5d6", "tri_count": "1231"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1231,
+					"verts": 792
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "59bc882e3cee9c1569f0a07f1674a5d6",
+	"name": "C:\\blackhawk\\Models\\Guss\\guss.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Leather.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "seats.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "Clouds.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 160,
+			"name": "fl_side.bmp",
+			"width": 196
+		}, 
+		{
+			"flags": 0,
+			"height": 57,
+			"name": "fl_back.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 183,
+			"name": "fl_top.bmp",
+			"width": 132
+		}, 
+		{
+			"flags": 0,
+			"height": 34,
+			"name": "fl_grey.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 48,
+			"name": "fl_front.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "fl_tire.bmp",
+			"width": 84
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "fl_gate.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 244,
+			"name": "fl_lift.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 116,
+			"name": "gus_face.bmp",
+			"width": 88
+		}, 
+		{
+			"flags": 0,
+			"height": 71,
+			"name": "gus_headside.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "gus_arm.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "gus_torso.bmp",
+			"width": 100
+		}, 
+		{
+			"flags": 0,
+			"height": 86,
+			"name": "gus_legside.bmp",
+			"width": 112
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "gus_hands.bmp",
+			"width": 32
+		}
+	],
+	"version": 10
+}

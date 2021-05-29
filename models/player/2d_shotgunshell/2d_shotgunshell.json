@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "25bd03011518c6dd67e6f6c01487487f", "tri_count": "1"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "shell",
+					"polys": 1,
+					"verts": 3
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "25bd03011518c6dd67e6f6c01487487f",
+	"name": "shotgunshell.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 0.000000,
+			"frames": 1,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "shell",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 79,
+			"name": "shell.bmp",
+			"width": 48
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,345 @@
-{"seq_groups": 1, "hash": "d25eb44d4898f82fddac04d297ea5f31", "tri_count": "1561"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1561,
+					"verts": 972
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "d25eb44d4898f82fddac04d297ea5f31",
+	"name": "C:\\Backup\\BumperCarFiles\\Models\\gordon\\gordon.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "seats.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "Clouds.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "PLAYER_Chrome1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 30,
+			"name": "PLAYER_Deltoid1.bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 110,
+			"name": "PLAYER_Back1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 100,
+			"name": "PLAYER_Legs1.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 60,
+			"name": "PLAYER_LegBck1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "PLAYER_FootBtm1.bmp",
+			"width": 12
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "PLAYER_Chest1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 27,
+			"name": "PLAYER_Shoulders1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 50,
+			"name": "PLAYER_Bicep1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "PLAYER_ForeArm1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 29,
+			"name": "PLAYER_Knee-Bck1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 50,
+			"name": "PLAYER_Calf1.bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 43,
+			"name": "PLAYER_Boots.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 60,
+			"name": "PLAYER_FootTop1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 30,
+			"name": "PLAYER_Hand-Btm1.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 60,
+			"name": "PLAYER_Hand-Top1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "PLAYER_Cuff1.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "PLAYER_Shldr-Joint.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 100,
+			"name": "PLAYER_FaceSide1.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 100,
+			"name": "PLAYER_Face1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "PLAYER_FaceTop1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 9,
+			"name": "PLAYER_Inmouth1.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 8,
+			"name": "PLAYER_Teeth1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Leather.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 80,
+			"name": "APCHE_Side2.bmp",
+			"width": 124
+		}, 
+		{
+			"flags": 0,
+			"height": 89,
+			"name": "APCHE_Tail1.bmp",
+			"width": 84
+		}, 
+		{
+			"flags": 0,
+			"height": 43,
+			"name": "APCHE_TailRotor1.bmp",
+			"width": 76
+		}, 
+		{
+			"flags": 0,
+			"height": 23,
+			"name": "APCHE_Tail_Fin1.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 54,
+			"name": "APCHE_Front1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 66,
+			"name": "APCHE_Side3.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 35,
+			"name": "APCHE_Missles1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 62,
+			"name": "APCHE_Pod_Fnt1.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 144,
+			"name": "APCHE_Top1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 46,
+			"name": "APCHE_Top_Rotor1.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "APCHE_Side4.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 27,
+			"name": "APCHE_Front2.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 124,
+			"name": "APCHE_TopCanopy1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "APCHE_Eside1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 74,
+			"name": "APCHE_Exhaust1.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "APCHE_Brace1.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 45,
+			"name": "APCHE_Wing1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "APCHE_Extra1.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "APCHE_Pod1.bmp",
+			"width": 60
+		}
+	],
+	"version": 10
+}
