@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 25,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 23,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -20,17 +25,27 @@
 		{
 			"models": [
 				{
-					"name": "DM_recruit_reference",
-					"polys": 478,
-					"verts": 247
+					"name": "ranger9_Police SEAL",
+					"polys": 981,
+					"verts": 509
 				}
 			],
-			"name": "body"
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "ranger9_defuse",
+					"polys": 80,
+					"verts": 44
+				}
+			],
+			"name": "backpack"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -38,7 +53,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -46,7 +61,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 12,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -54,7 +69,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 13,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -296,8 +311,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f2a250d65e52a53856e42fda3caa5c31",
-	"name": "recruit.mdl",
+	"md5": "f8552e4179a539464e7c747264c22255",
+	"name": "ranger9.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -307,7 +322,7 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 31,
+			"frames": 41,
 			"name": "idle"
 		}, 
 		{
@@ -341,7 +356,7 @@
 			"name": "crouch_idle"
 		}, 
 		{
-			"fps": 30.000000,
+			"fps": 24.000000,
 			"frames": 128,
 			"name": "jump"
 		}, 
@@ -351,13 +366,13 @@
 			"name": "long_jump"
 		}, 
 		{
-			"fps": 14.000000,
-			"frames": 27,
+			"fps": 20.000000,
+			"frames": 61,
 			"name": "swim"
 		}, 
 		{
-			"fps": 14.000000,
-			"frames": 32,
+			"fps": 17.000000,
+			"frames": 51,
 			"name": "treadwater"
 		}, 
 		{
@@ -1256,7 +1271,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 951796,
+	"size": 1339212,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1279,16 +1294,24 @@
 			"parent": 3
 		}, 
 		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1296,97 +1319,207 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
 			"parent": 10
 		}, 
 		{
-			"name": "Bip01 Neck",
+			"name": "Bip01 Spine2",
 			"parent": 11
 		}, 
 		{
+			"name": "Bip01 Spine3",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 13
+		}, 
+		{
 			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Arm2",
-			"parent": 15
+			"name": "Bip01 L Arm",
+			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Arm1",
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 L Arm2",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 L Finger01",
+			"name": "Bip01 L Hand",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 20
-		}, 
-		{
 			"name": "Bip01 R Arm",
-			"parent": 12
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 22
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 23
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Hand",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger01",
 			"parent": 24
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 25
+			"name": "Bip01 L Finger1",
+			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Finger01",
+			"name": "Bip01 L Finger11",
 			"parent": 26
 		}, 
 		{
+			"name": "-- L knuckle",
+			"parent": 26
+		}, 
+		{
+			"name": "-- L wrist",
+			"parent": 18
+		}, 
+		{
+			"name": "-- L Elbow",
+			"parent": 17
+		}, 
+		{
+			"name": "-- L bicep twist",
+			"parent": 17
+		}, 
+		{
+			"name": "-- L shoulder outside",
+			"parent": 16
+		}, 
+		{
+			"name": "-- L Shoulder inside",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 34
+		}, 
+		{
 			"name": "Bip01 R Finger1",
-			"parent": 25
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Finger11",
-			"parent": 28
+			"parent": 36
+		}, 
+		{
+			"name": "-- R knuckle",
+			"parent": 36
+		}, 
+		{
+			"name": "-- R wrist",
+			"parent": 22
+		}, 
+		{
+			"name": "-- R Elbow",
+			"parent": 21
+		}, 
+		{
+			"name": "-- R bicep twist",
+			"parent": 21
+		}, 
+		{
+			"name": "-- R Shoulder inside",
+			"parent": 20
+		}, 
+		{
+			"name": "-- R shoulder outside",
+			"parent": 20
+		}, 
+		{
+			"name": "-- Neck smooth",
+			"parent": 13
+		}, 
+		{
+			"name": "-- R Butt",
+			"parent": 1
+		}, 
+		{
+			"name": "-- L butt",
+			"parent": 1
+		}, 
+		{
+			"name": "-- L ankle",
+			"parent": 3
+		}, 
+		{
+			"name": "-- L Knee",
+			"parent": 2
+		}, 
+		{
+			"name": "-- R Ankle",
+			"parent": 7
+		}, 
+		{
+			"name": "-- R Knee",
+			"parent": 6
+		}, 
+		{
+			"name": "Object04",
+			"parent": 10
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
+			"flags": 3,
+			"height": 64,
+			"name": "Chrome1.bmp",
+			"width": 64
+		}, 
+		{
 			"flags": 0,
-			"height": 255,
-			"name": "recruit.BMP",
-			"width": 256
+			"height": 64,
+			"name": "Helmet2.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Radio.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Antena.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "PoliceOfficier1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Backpack2.BMP",
+			"width": 64
 		}
 	],
 	"version": 10

@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "DM_recruit_reference",
-					"polys": 478,
-					"verts": 247
+					"name": "DM_Adrian_reference",
+					"polys": 404,
+					"verts": 223
 				}
 			],
 			"name": "body"
@@ -296,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f2a250d65e52a53856e42fda3caa5c31",
-	"name": "recruit.mdl",
+	"md5": "35c939dcd82b05b718163710b0e9d85c",
+	"name": "grunt_enemy.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1256,7 +1256,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 951796,
+	"size": 949992,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1385,7 +1385,7 @@
 		{
 			"flags": 0,
 			"height": 255,
-			"name": "recruit.BMP",
+			"name": "DM_grunt_reg.BMP",
 			"width": 256
 		}
 	],

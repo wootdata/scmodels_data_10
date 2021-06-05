@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 25,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 27,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "DM_recruit_reference",
-					"polys": 478,
-					"verts": 247
+					"name": "be_grunt_desert_Raptor",
+					"polys": 3016,
+					"verts": 1595
 				}
 			],
 			"name": "body"
@@ -141,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -296,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f2a250d65e52a53856e42fda3caa5c31",
-	"name": "recruit.mdl",
+	"md5": "f56e14f87208cfad9742b10e7dfbdbb3",
+	"name": "be_grunt_desert.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1256,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 951796,
+	"size": 1456160,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1339,12 +1344,20 @@
 			"parent": 18
 		}, 
 		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
 			"name": "Bip01 L Finger1",
 			"parent": 17
 		}, 
 		{
 			"name": "Bip01 L Finger11",
-			"parent": 20
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1352,31 +1365,39 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Hand",
 			"parent": 24
 		}, 
 		{
-			"name": "Bip01 R Finger0",
+			"name": "Bip01 R Arm2",
 			"parent": 25
 		}, 
 		{
-			"name": "Bip01 R Finger01",
+			"name": "Bip01 R Hand",
 			"parent": 26
 		}, 
 		{
+			"name": "Bip01 R Finger0",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 29
+		}, 
+		{
 			"name": "Bip01 R Finger1",
-			"parent": 25
+			"parent": 27
 		}, 
 		{
 			"name": "Bip01 R Finger11",
-			"parent": 28
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1384,9 +1405,69 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 255,
-			"name": "recruit.BMP",
+			"height": 384,
+			"name": "soldier_body.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_hand_wht.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_arm_wht.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_pouches.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 125,
+			"name": "wp_grenade.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 131,
+			"name": "soldier_backpack.bmp",
+			"width": 236
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_holster.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "soldier_holster_pistol.bmp",
+			"width": 124
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_boots.bmp",
+			"width": 192
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "soldier_head_commander_wht.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "soldier_beret_red.bmp",
+			"width": 128
 		}
 	],
 	"version": 10

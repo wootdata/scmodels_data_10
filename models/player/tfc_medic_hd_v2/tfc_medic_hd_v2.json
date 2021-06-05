@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 25,
+			"bone": 38,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 38,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 38,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +25,19 @@
 		{
 			"models": [
 				{
-					"name": "DM_recruit_reference",
-					"polys": 478,
-					"verts": 247
+					"name": "TFC_Medic_HD_Medic_legs",
+					"polys": 176,
+					"verts": 93
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "TFC_Medic_HD_Medic_torso",
+					"polys": 492,
+					"verts": 271
 				}
 			],
 			"name": "body"
@@ -30,7 +45,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 12,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -38,7 +53,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 13,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -46,7 +61,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 14,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -54,12 +69,20 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 15,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
+		}, 
+		{
+			"bone": 19,
+			"end": 15.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
 		}
 	],
 	"events": [
@@ -171,14 +194,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -296,8 +319,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f2a250d65e52a53856e42fda3caa5c31",
-	"name": "recruit.mdl",
+	"md5": "07716b04764d5232692395c8fe1bbf28",
+	"name": "Medic.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1229,34 +1252,9 @@
 			"fps": 15.000000,
 			"frames": 36,
 			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 951796,
+	"size": 1255676,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1267,16 +1265,28 @@
 			"parent": 0
 		}, 
 		{
+			"name": "--R Butt",
+			"parent": 1
+		}, 
+		{
+			"name": "--L butt",
+			"parent": 1
+		}, 
+		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 2
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 3
+			"parent": 5
+		}, 
+		{
+			"name": "--L Knee",
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1284,11 +1294,15 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 9
+		}, 
+		{
+			"name": "--R Knee",
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1296,87 +1310,155 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 9
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Arm2",
+			"name": "Bip01 Neck",
 			"parent": 15
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 Head",
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Dummy21",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 L Finger01",
+			"name": "Mouth",
 			"parent": 18
 		}, 
 		{
+			"name": "Bip01 L Arm",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 25
+		}, 
+		{
 			"name": "Bip01 L Finger1",
-			"parent": 17
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 L Finger11",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 28
+		}, 
+		{
+			"name": "-- L Forearm twist",
+			"parent": 22
+		}, 
+		{
+			"name": "-- L wrist",
+			"parent": 22
+		}, 
+		{
+			"name": "--L Elbow",
+			"parent": 21
+		}, 
+		{
+			"name": "-- L bicep twist",
+			"parent": 21
+		}, 
+		{
+			"name": "-- L Shoulder inside",
 			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 12
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 22
+			"parent": 35
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 23
+			"parent": 36
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 24
+			"parent": 37
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 25
+			"parent": 38
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 26
+			"parent": 39
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 40
 		}, 
 		{
 			"name": "Bip01 R Finger1",
-			"parent": 25
+			"parent": 38
 		}, 
 		{
 			"name": "Bip01 R Finger11",
-			"parent": 28
+			"parent": 42
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 43
+		}, 
+		{
+			"name": "-- R wrist",
+			"parent": 37
+		}, 
+		{
+			"name": "-- R forearm twist",
+			"parent": 37
+		}, 
+		{
+			"name": "--R Elbow",
+			"parent": 36
+		}, 
+		{
+			"name": "-- R bicep twist",
+			"parent": 36
+		}, 
+		{
+			"name": "-- R Shoulder inside",
+			"parent": 35
+		}, 
+		{
+			"name": "Circle01",
+			"parent": 15
 		}
 	],
 	"skins": 1,
@@ -1384,9 +1466,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 255,
-			"name": "recruit.BMP",
-			"width": 256
+			"height": 512,
+			"name": "remap1_160_191_223.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "remapc_001_255.bmp",
+			"width": 64
 		}
 	],
 	"version": 10
