@@ -1,56 +1,15 @@
 {
-	"attachments": [
-		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 10,
-			"name": "",
-			"type": 0
-		}
-	],
+	"attachments": [],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "goose2",
-					"polys": 460,
-					"verts": 242
+					"name": "vanJamie",
+					"polys": 2309,
+					"verts": 1173
 				}
 			],
-			"name": "GOOS"
-		}, 
-		{
-			"models": [
-				{
-					"name": "wing_L2",
-					"polys": 2196,
-					"verts": 1100
-				}
-			],
-			"name": "wing"
-		}, 
-		{
-			"models": [
-				{
-					"name": "wing_R2",
-					"polys": 2196,
-					"verts": 1100
-				}
-			],
-			"name": "wing"
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -87,8 +46,8 @@
 			"type": 8
 		}, 
 		{
-			"bone": 28,
-			"end": -1.000000,
+			"bone": 16,
+			"end": -5.000000,
 			"index": 4,
 			"rest": 0,
 			"start": 0.000000,
@@ -97,30 +56,9 @@
 	],
 	"events": [
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk.wav",
-			"sequence": 8,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk.wav",
-			"sequence": 9,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 9,
 			"options": "",
-			"sequence": 12,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
 			"sequence": 12,
 			"type": 0
 		}, 
@@ -132,23 +70,9 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 13,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 15,
 			"options": "",
-			"sequence": 14,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
 			"sequence": 14,
 			"type": 0
 		}, 
@@ -160,23 +84,9 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 15,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
-			"sequence": 16,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
 			"sequence": 16,
 			"type": 0
 		}, 
@@ -188,52 +98,10 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 17,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 18,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 21,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 24,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 27,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 30,
 			"type": 0
 		}, 
 		{
@@ -420,33 +288,33 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ecc15dd1fb017626c899ef09044087c7",
-	"name": "UGG_Goose.mdl",
+	"md5": "acc3c8095451149969a6493f0412a676",
+	"name": "vanJamie.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "deep_idle"
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
+			"frames": 24,
 			"name": "run2"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 17,
+			"frames": 16,
 			"name": "walk2handed"
 		}, 
 		{
@@ -1380,7 +1248,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1575232,
+	"size": 1055432,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1427,80 +1295,28 @@
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 15
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 18
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 Head",
 			"parent": 6
 		}, 
 		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
-			"name": "tail_bone",
-			"parent": 4
+			"name": "Bip01 Mouth",
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1508,11 +1324,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 30
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 31
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1520,27 +1336,33 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 33
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 34
+			"parent": 21
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 4,
-			"height": 512,
-			"name": "goose.bmp",
-			"width": 512
+			"flags": 1,
+			"height": 256,
+			"name": "jamieTexture.bmp",
+			"width": 256
 		}, 
 		{
-			"flags": 1073741828,
-			"height": 512,
-			"name": "remapA_000_255_255.bmp",
-			"width": 512
+			"flags": 1,
+			"height": 256,
+			"name": "jamieFace.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 1,
+			"height": 256,
+			"name": "jamieHair.bmp",
+			"width": 256
 		}
 	],
 	"version": 10

@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 11,
 			"name": "",
 			"type": 0
 		}
@@ -25,32 +25,82 @@
 		{
 			"models": [
 				{
-					"name": "goose2",
-					"polys": 460,
-					"verts": 242
+					"name": "Lhead",
+					"polys": 2368,
+					"verts": 1219
 				}
 			],
-			"name": "GOOS"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "wing_L2",
-					"polys": 2196,
-					"verts": 1100
+					"name": "Rhead",
+					"polys": 2339,
+					"verts": 1196
 				}
 			],
-			"name": "wing"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "wing_R2",
-					"polys": 2196,
-					"verts": 1100
+					"name": "lbody",
+					"polys": 2547,
+					"verts": 1316
 				}
 			],
-			"name": "wing"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "rbody",
+					"polys": 2588,
+					"verts": 1321
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "leg",
+					"polys": 3429,
+					"verts": 1714
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "armor",
+					"polys": 2946,
+					"verts": 1585
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Rig",
+					"polys": 3599,
+					"verts": 1891
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "op",
+					"polys": 1884,
+					"verts": 964
+				}
+			],
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -85,42 +135,13 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 28,
-			"end": -1.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 1
 		}
 	],
 	"events": [
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk.wav",
-			"sequence": 8,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk.wav",
-			"sequence": 9,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 9,
 			"options": "",
-			"sequence": 12,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
 			"sequence": 12,
 			"type": 0
 		}, 
@@ -132,23 +153,9 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 13,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 15,
 			"options": "",
-			"sequence": 14,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
 			"sequence": 14,
 			"type": 0
 		}, 
@@ -160,23 +167,9 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 15,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
-			"sequence": 16,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
 			"sequence": 16,
 			"type": 0
 		}, 
@@ -188,52 +181,10 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 17,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 18,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 21,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 24,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 27,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 30,
 			"type": 0
 		}, 
 		{
@@ -265,30 +216,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -420,28 +371,28 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ecc15dd1fb017626c899ef09044087c7",
-	"name": "UGG_Goose.mdl",
+	"md5": "e54f9bbe012c6e1fb25f2758cee20af5",
+	"name": "DS2_Solder.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "deep_idle"
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
+			"frames": 25,
 			"name": "run2"
 		}, 
 		{
@@ -1333,54 +1284,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 1575232,
+	"size": 2068512,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1411,44 +1317,24 @@
 			"parent": 5
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Arm2",
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 L Hand",
 			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1456,51 +1342,15 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 18
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
-			"name": "tail_bone",
-			"parent": 4
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1508,11 +1358,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 30
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 31
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1520,27 +1370,45 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 33
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 34
+			"parent": 20
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 4,
+			"flags": 0,
 			"height": 512,
-			"name": "goose.bmp",
+			"name": "Body2.bmp",
 			"width": 512
 		}, 
 		{
-			"flags": 1073741828,
+			"flags": 6,
+			"height": 64,
+			"name": "glow.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
 			"height": 512,
-			"name": "remapA_000_255_255.bmp",
+			"name": "helm.bmp",
 			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "doodads.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 6,
+			"height": 64,
+			"name": "rigbar.bmp",
+			"width": 64
 		}
 	],
 	"version": 10
