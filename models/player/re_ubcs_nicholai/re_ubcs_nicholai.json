@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "00e8a165d644b6537aae509ce6a97639",
-	"name": "RE_UBCS_Nicholai.mdl",
+	"md5": "1a8b97d55605d4690db0253adb3d9b5e",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode0",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1149256,
+	"size": 1157424,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,9 +1312,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 503,
+			"height": 512,
 			"name": "terror_body.bmp",
-			"width": 504
+			"width": 512
 		}, 
 		{
 			"flags": 0,
