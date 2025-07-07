@@ -63,6 +63,7 @@
 			"name": "leg"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "87673e65298ab1d7bcf2ae8d2d4e79bb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dogey_sakuya.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

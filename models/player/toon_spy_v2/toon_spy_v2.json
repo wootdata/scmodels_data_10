@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b09c211692a8c99be97b74a02369bf2a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "toon_spy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

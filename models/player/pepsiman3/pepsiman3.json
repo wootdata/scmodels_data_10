@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -387,7 +388,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b94a9a9df3a0b8bb170c295a80d60540",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/pepsiman/pepsiman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -53,6 +53,7 @@
 			"name": "gourd"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eb17ab81d01bcff657f25109f5216c60",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Shippudden Gaara.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

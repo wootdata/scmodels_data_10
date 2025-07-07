@@ -103,6 +103,7 @@
 			"name": "studio1"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bb99c22309ec6395dc66c4981167bd66",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Kratos.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

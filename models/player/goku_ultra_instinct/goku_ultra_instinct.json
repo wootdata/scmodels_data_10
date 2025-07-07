@@ -63,6 +63,7 @@
 			"name": "DavidManeyro"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "10e749c1eb5ebc3a588341b9436437c1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GOKUSSGSS.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

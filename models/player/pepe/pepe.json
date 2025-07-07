@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -301,7 +302,11 @@
 	],
 	"id": 1414743113,
 	"md5": "be7d361b76c9c9b3e0c7442d6dbe3aa4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pepe.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

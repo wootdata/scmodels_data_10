@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4cbc9150a6bf393d097146eb6f1689e6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "angel01.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

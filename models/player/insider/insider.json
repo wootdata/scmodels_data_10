@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c5fa34c2559825f9385912568cd8d7d3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "insider.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

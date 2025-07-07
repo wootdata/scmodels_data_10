@@ -53,6 +53,7 @@
 			"name": "wing"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ecc15dd1fb017626c899ef09044087c7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "UGG_Goose.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b4fa3017c89f8fd05a579aa5bf551f68",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "aan_unk.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1b8c8126caae260aa36f5c040b89973e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "deway.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

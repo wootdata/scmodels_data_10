@@ -92,6 +92,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -419,7 +420,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3d36a01437e0579e1c91f46828295c42",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KarenKujo.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

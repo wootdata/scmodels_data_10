@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e77be3da4ec13d3a2f5fbc17f620bc66",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Dukester X\\Desktop\\ahl players\\!SVEN px",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

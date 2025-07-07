@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -288,7 +289,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1d723abb1d2aefd5796d60fc6f567867",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "../compiled/dod_allie-medium.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

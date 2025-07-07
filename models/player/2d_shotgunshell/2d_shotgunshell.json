@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1538820266,
 	"events": [],
 	"id": 1414743113,
 	"md5": "25bd03011518c6dd67e6f6c01487487f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shotgunshell.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

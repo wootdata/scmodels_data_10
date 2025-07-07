@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -778,7 +779,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b093b42b90ce3fb1df75c264f4d40575",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hololive_Gura-c2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

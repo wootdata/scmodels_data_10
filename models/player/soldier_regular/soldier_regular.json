@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -240,7 +241,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0d4cfd0018c10b1b6b290eb38d564174",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_commanderf.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

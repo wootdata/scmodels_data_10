@@ -83,6 +83,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4c920774fb310f38ef5c87843ce5dded",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "duke_nukem.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

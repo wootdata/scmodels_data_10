@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5caab1364b0180eb71226644d7562ffd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Daedelus1.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

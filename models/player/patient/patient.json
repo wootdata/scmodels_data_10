@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b18e9b9866081bb4ea81943290087e19",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "patient.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

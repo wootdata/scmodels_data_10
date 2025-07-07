@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -224,7 +225,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a9cd230cdb19e87f4e053c6d605b32f7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sniper_choroyi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

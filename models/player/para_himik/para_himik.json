@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2dc51c2a7bc6f1e266849705073fd7ff",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "para_HIMIK.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

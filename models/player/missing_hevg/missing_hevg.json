@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1e204d947966bce8d4c1ac49c8b48f46",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

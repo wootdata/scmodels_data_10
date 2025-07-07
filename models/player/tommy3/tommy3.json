@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d00cb7df2efba5e3f145080b04b0ec71",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Tommy3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

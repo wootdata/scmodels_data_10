@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d74e6602d4923b78118650c8f50b5ce6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "giorno.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

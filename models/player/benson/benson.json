@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2a996e7a316bc8726121c9edf58237c4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gordon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

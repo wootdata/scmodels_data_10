@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "94483dfe77c407dc146a1d36967376b7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "monoko1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

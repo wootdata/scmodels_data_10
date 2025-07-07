@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6333fb9b4e766a8befa83c0b11f49f57",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dmz_frieza.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

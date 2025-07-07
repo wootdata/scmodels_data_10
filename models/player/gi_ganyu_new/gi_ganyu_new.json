@@ -123,6 +123,7 @@
 			"name": "gy_horn"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -807,7 +808,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f6948bc73c2f02a5bc93844690b4fc5e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Ganyu_new.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

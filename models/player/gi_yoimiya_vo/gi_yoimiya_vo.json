@@ -153,6 +153,7 @@
 			"name": "body2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -753,7 +754,11 @@
 	],
 	"id": 1414743113,
 	"md5": "078cd1c26f6a3ee8e55a3c2590aa0bf0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Yoimiya.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

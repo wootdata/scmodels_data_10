@@ -38,6 +38,7 @@
 			"name": "face"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e3e6a309b04989aa7cd60dfeb561595a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NS_TSA.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

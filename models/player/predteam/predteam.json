@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4532517fe41f7301efd12180ca1b5096",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files\\Steam\\SteamApps\\w33d@suomi24.fi\\half-life\\SvenCh",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

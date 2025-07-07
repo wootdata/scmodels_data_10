@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2435f3688519b192b47e9acfa5fc7870",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "spawn.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

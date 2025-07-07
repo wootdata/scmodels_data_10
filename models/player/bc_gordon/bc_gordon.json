@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1056722004,
 	"events": [],
 	"id": 1414743113,
 	"md5": "d25eb44d4898f82fddac04d297ea5f31",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Backup\\BumperCarFiles\\Models\\gordon\\gordon.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

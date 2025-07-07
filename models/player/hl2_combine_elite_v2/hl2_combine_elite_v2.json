@@ -48,6 +48,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e44cb26f3439e2351b814747f40c814",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hl2_combine_elite.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

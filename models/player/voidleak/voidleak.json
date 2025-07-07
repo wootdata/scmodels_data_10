@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f811134f2198ece22b535f75fb48b10e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "VoidLeak.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

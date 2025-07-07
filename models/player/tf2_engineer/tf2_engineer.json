@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -352,7 +353,11 @@
 	],
 	"id": 1414743113,
 	"md5": "46698f025576a1cbca2999b2c86a46b3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\GAMEonly\\fXNgbv\\TF2_sc4player\\moO",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

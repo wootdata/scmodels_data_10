@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b618e11d0e1b5ee6ec59a7d4aab612e9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]Cpl_Berger.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

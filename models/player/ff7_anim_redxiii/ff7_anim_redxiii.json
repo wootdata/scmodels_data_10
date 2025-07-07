@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 27,
@@ -266,7 +267,11 @@
 	],
 	"id": 1414743113,
 	"md5": "88c239a872134caf61a4c3fccbf6ccc1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ff7redxiii.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

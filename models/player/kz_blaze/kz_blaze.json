@@ -123,6 +123,7 @@
 			"name": "KZ-Sheez"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -456,7 +457,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ad33b7820b0ee5d2e07bf5aaf21899a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_SonicDash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

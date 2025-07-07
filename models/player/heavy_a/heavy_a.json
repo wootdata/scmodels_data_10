@@ -23,6 +23,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -293,7 +294,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f0c45bc989c9d7c37b4e67bece566508",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "heavy_a.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aaae23306dc6a382aacf5ac93679c225",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Alaris_guerilla.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

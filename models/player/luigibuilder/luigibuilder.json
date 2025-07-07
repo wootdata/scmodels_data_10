@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "01036de30897266c1f545c7ee33e2445",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\MarioHalloween\\MarioHalloween.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

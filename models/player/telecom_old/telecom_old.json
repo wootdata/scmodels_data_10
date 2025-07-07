@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e3ad0ff8e80e2f8d7af199d5c02a6139",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "telecom_OLD.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

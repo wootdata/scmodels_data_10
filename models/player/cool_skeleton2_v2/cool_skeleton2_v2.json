@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "21874de174b0f790945661f9b3156f29",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cool_skeleton.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

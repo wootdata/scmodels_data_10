@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "255bc6b545c7814eec95b3a7f96eced5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "death.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

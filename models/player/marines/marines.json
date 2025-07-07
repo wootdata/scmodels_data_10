@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4574f70b1147e4efac5a6920b38eed50",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Administrator\\\\~my workshop\\mine\\bhr",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

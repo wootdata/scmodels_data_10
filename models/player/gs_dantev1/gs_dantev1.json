@@ -153,6 +153,7 @@
 			"name": "DavidManeryo"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -423,7 +424,11 @@
 	],
 	"id": 1414743113,
 	"md5": "249a0778749906718a6f9f59ab828b5f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Dante.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

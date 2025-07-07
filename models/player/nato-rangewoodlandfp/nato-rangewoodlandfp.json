@@ -48,6 +48,7 @@
 			"name": "nvg"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1265566111,
 	"events": [
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "64829c735003be1877688131d3c9119d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nato-RangewoodlandFP.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

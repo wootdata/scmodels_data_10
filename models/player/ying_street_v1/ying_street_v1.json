@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -427,7 +428,11 @@
 	],
 	"id": 1414743113,
 	"md5": "726adbe09bab8a8cb105e6e2f1d24433",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ying_street_v1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

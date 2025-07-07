@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e9f2c16ff46a86904f2ce03b8c5d7425",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Re4_Krauser.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

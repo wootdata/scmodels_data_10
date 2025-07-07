@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d750dd5514f3271315107657d6341ca6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\SIERRA\\Half-Life\\valve\\models\\player\\Coyote\\Coyote2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

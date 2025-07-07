@@ -133,6 +133,7 @@
 			"name": "ears"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -467,7 +468,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5ca5f8a00b7a6c84142183dfa2c50f77",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "meranian_bv1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

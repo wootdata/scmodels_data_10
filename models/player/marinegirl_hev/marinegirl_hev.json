@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7ca195c672eda88f183bc9b12b8cb1e2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "marinegirl_hev.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

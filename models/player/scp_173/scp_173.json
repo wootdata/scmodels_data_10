@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1597843781,
 	"events": [
@@ -270,7 +271,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9658bf1bd3c52e9e54c00baf0a270591",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SCP_173.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

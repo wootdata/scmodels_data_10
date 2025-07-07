@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -331,7 +332,11 @@
 	],
 	"id": 1414743113,
 	"md5": "02663a8315e42a29678ad0f7ac18881c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "knives2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

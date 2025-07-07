@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "11c44e672ec8a60c39acc341a43af390",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "infested.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

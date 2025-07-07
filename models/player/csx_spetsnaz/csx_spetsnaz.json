@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eb5ef06750c86339ee66a5747596084c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "csx_spetsnaz.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

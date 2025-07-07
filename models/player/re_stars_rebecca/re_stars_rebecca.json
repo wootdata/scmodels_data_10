@@ -33,6 +33,7 @@
 			"name": "marine"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6ead07c6f70de33f47be33b8dba4448f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_STARS_Rebecca.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

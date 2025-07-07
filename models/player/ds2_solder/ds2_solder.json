@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e54f9bbe012c6e1fb25f2758cee20af5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DS2_Solder.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

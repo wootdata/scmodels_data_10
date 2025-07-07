@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "09d2c0f34ac163c09f046274122f8f97",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "monster_hunter.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

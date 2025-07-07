@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1378198218,
 	"events": [],
 	"id": 1414743113,
 	"md5": "6cbde3245451ad0e5e8c9e22c6f6ef45",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/bigrat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

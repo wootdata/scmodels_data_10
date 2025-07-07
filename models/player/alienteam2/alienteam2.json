@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0bc50046fb744324398aa78145b74335",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "alienteam2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

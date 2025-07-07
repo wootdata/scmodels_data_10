@@ -33,6 +33,7 @@
 			"name": "link"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "49c539ce9794dc26e7a95d73250919ee",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "LOZ_LinkC.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

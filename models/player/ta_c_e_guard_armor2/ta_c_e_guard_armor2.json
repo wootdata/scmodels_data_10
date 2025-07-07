@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -554,7 +555,11 @@
 	],
 	"id": 1414743113,
 	"md5": "650cb64ee60c4c549eb47a0d6bda0d43",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TA_c_elite.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5188d45eec3c3824812e65c502561e21",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TMA2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

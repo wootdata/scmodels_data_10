@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cb7f7bb267114b99c672211c310ffa93",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "stalker_exo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

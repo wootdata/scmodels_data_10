@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -502,7 +503,11 @@
 	],
 	"id": 1414743113,
 	"md5": "72e3d043b74b77db946bcb8db2be217e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TA_special_badcop.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

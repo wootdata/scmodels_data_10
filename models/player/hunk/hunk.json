@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "be8850b5193bd1045ea8c2bab83413c6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Steam\\SteamApps\\evilpentapenguin@hotmail.com\\half-life\\SvenCo/",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

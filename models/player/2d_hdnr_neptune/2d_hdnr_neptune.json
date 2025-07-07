@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1553684488,
 	"events": [
@@ -265,7 +266,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3deaf2d7707c8859b5b8344a108d5160",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "2dtyan.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
