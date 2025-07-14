@@ -301,6 +301,7 @@
 	"md5": "35c939dcd82b05b718163710b0e9d85c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "grunt_enemy.mdl",
 	"preview": true,
 	"readme": false,

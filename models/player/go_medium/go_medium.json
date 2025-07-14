@@ -311,6 +311,7 @@
 	"md5": "d043b862792c709d4358cb42134bf091",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "go_medium.mdl",
 	"preview": true,
 	"readme": false,

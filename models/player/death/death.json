@@ -306,6 +306,7 @@
 	"md5": "255bc6b545c7814eec95b3a7f96eced5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "death.mdl",
 	"preview": true,
 	"readme": true,
