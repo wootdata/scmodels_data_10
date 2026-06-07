@@ -33,6 +33,7 @@
 			"name": "arm"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -51,6 +52,7 @@
 			"type": 32
 		}
 	],
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 10,
@@ -174,7 +176,12 @@
 	],
 	"id": 1414743113,
 	"md5": "94f3d53e6c2467b530e5ebb58725a16f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "D:\\hunger\\agrunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "2",
 	"sequences": [
 		{

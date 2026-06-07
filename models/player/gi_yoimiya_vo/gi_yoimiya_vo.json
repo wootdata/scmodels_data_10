@@ -196,7 +196,7 @@
 			"type": 32
 		}
 	],
-	"date": 1701346433,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 5004,
@@ -756,6 +756,7 @@
 	"md5": "078cd1c26f6a3ee8e55a3c2590aa0bf0",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "GI_Yoimiya.mdl",
 	"preview": true,
 	"readme": false,

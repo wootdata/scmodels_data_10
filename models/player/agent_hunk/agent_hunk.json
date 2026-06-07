@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1152278050,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "ea60b22e5122c49cc366fe4b0382349e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "newhead.mdl",
 	"preview": true,
 	"readme": true,

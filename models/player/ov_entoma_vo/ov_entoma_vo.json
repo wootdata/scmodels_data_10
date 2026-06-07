@@ -152,7 +152,7 @@
 			"type": 8
 		}
 	],
-	"date": 1703169208,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 5004,
@@ -880,6 +880,7 @@
 	"md5": "147096ae7ff8f578882f0e0669cd6738",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "OV_Entoma.mdl",
 	"preview": true,
 	"readme": false,

@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1190313836,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "d750dd5514f3271315107657d6341ca6",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\SIERRA\\Half-Life\\valve\\models\\player\\Coyote\\Coyote2.mdl",
 	"preview": true,
 	"readme": false,
